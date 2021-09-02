@@ -1,5 +1,5 @@
 export const Api = {
-	baseUrl: "http://localhost:3001/personagens",
+	baseUrl: "http://localhost:3000/personagens",
 
 	createUrl: () => Api.baseUrl + "/",
 
