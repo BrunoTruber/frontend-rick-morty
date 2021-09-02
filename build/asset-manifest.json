@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BrunoTruber/frontend-rick-mortystatic/css/main.e41679e8.chunk.css",
+    "main.js": "/BrunoTruber/frontend-rick-mortystatic/js/main.762da212.chunk.js",
+    "main.js.map": "/BrunoTruber/frontend-rick-mortystatic/js/main.762da212.chunk.js.map",
+    "runtime-main.js": "/BrunoTruber/frontend-rick-mortystatic/js/runtime-main.a13455cb.js",
+    "runtime-main.js.map": "/BrunoTruber/frontend-rick-mortystatic/js/runtime-main.a13455cb.js.map",
+    "static/js/2.223035a7.chunk.js": "/BrunoTruber/frontend-rick-mortystatic/js/2.223035a7.chunk.js",
+    "static/js/2.223035a7.chunk.js.map": "/BrunoTruber/frontend-rick-mortystatic/js/2.223035a7.chunk.js.map",
+    "index.html": "/BrunoTruber/frontend-rick-mortyindex.html",
+    "static/css/main.e41679e8.chunk.css.map": "/BrunoTruber/frontend-rick-mortystatic/css/main.e41679e8.chunk.css.map",
+    "static/js/2.223035a7.chunk.js.LICENSE.txt": "/BrunoTruber/frontend-rick-mortystatic/js/2.223035a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a13455cb.js",
+    "static/js/2.223035a7.chunk.js",
+    "static/css/main.e41679e8.chunk.css",
+    "static/js/main.762da212.chunk.js"
+  ]
+}
