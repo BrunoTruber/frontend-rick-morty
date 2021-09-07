@@ -1,5 +1,6 @@
 export const Api = {
 	baseUrl: "https://backend-rick-morty-bruno.herokuapp.com/personagens",
+	// baseUrl: "http://localhost:3000/personagens",
 
 	createUrl: () => Api.baseUrl + "/",
 
