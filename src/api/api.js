@@ -9,7 +9,7 @@ export const Api = {
 
 	updateUrl: (id) => Api.baseUrl + "/personagens/update/" + id,
 
-	deleteUrl: (id) => Api.baseUrl + "personagens/delete/" + id,
+	deleteUrl: (id) => Api.baseUrl + "/personagens/delete/" + id,
 	deleteAllUrl: () => Api.baseUrl + "/",
 
 	// Create
