@@ -1,8 +1,8 @@
 export const Api = {
-	//baseUrl: "https://backend-rick-morty-bruno.herokuapp.com/personagens",
-	baseUrl: "https://localhost:3000/personagens",
+	baseUrl: "https://backend-rick-morty-bruno.herokuapp.com",
+	//baseUrl: "https://localhost:3000/personagens",
 
-	createUrl: () => Api.baseUrl + "/personagens/create",
+	createUrl: () => Api.baseUrl + "/personagens/create/",
 
 	readAllUrl: () => Api.baseUrl + "/personagens/read-all/",
 	readSingleUrl: (id) => Api.baseUrl + "/personagens/read-by-id/" + id,
